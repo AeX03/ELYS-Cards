@@ -26,3 +26,13 @@
 - Tiktok/Instagram Bot Follower ou Like - [Ici](https://elys.mysellix.io/product/63deea35ad8dc)
 
 - Clès Windows Version 7 10 ou 11 pour Pro,Familial,Entreprise - [Ici](https://elys.mysellix.io/product/63de6354b2c27)
+
+## Me choisir
+
+- Pourquoi me choisir ? 
+<br>
+- J'offre un service clients par email ou discord, vous pouvez me contacter a toute heurs.
+
+## Contact
+
+- Contacter-moi - [support](https://elys.mysellix.io/contact)
