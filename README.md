@@ -31,7 +31,7 @@
 
 - Pourquoi me choisir ? 
 <br>
-- J'offre un service clients par email ou discord, vous pouvez me contacter a toute heurs.
+- J'offre un service clients par email ou discord, vous pouvez me contacter a toute heures.
 
 ## Contact
 
