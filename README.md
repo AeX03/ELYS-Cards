@@ -5,7 +5,7 @@
 
 ## Paiement
 
- - pour tous paiement avec votre <b>carte bancaire</b>, veuillez me contacter par email.
+ - pour tous paiement avec votre <b>carte bancaire</b>, veuillez me contacter par email <elyscontact@proton.me>.
   vous utiliserais une platforme tiers qui s'appelle [MoonPay](https://www.moonpay.com/fr), cette platforme transforme votre argent (euro) en cryptomonnaie.
   cela eviteras les fuites de vos donners bancaire ainsi que votre anonymas.
   
