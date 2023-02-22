@@ -6,9 +6,20 @@
 ## Paiement
 
  - pour tous paiement avec votre <b>carte bancaire</b>, veuillez me contacter par email <elyscontact@proton.me>.
-  vous utiliserais une platforme tiers qui s'appelle [MoonPay](https://www.moonpay.com/fr), cette platforme transforme votre argent (euro) en cryptomonnaie.
-  cela eviteras les fuites de vos donners bancaire ainsi que votre anonymas.
+  vous utiliserais une platforme tiers qui s'appelle [MoonPay](https://www.moonpay.com/fr) ou [Ramp](https://ramp.network/), cette platforme transforme votre argent (euro) en cryptomonnaie :warning: <b>Frais élever</b> :warning:.
+<br>
+
+ - pourquoi la cryptomonnaie ? cela evites les fuites de vos donners bancaire ainsi que votre anonymas et la mienne.
+
+<br>
+
+ - vous voulez creer un compte de cryptomonnaie pour effectuez des achat et vente plus rapidement ? sans passer par [MoonPay](https://www.moonpay.com/fr) ou [Ramp](https://ramp.network/), en payant des frais ? Contacter-moi par email je vous aiderais dans la réaliser de votre comptre cryptomonnaie
   
+## Vidéo
+
+https://user-images.githubusercontent.com/103602164/220789924-568881cf-b490-4580-9397-ac1aab989832.mp4
+
+
 ## Mes Retours Clients
 
 - Mes FeelBack - [FeelBack](https://elys.mysellix.io/feedback)
