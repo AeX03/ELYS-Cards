@@ -13,4 +13,4 @@ avec leurs chaînes d'animation et il ya même des
 Vod films et séries TV illimité les plus populaires.
 Faut juste avoir Internet, n'hésitez pas à me
 contacter en Mp.
-Vous pouvez avoir un test gratuit de 2h pour essayer
+Vous pouvez avoir un test gratuit de 24h pour essayer me contacter sur fb.
